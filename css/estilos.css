@@ -1,0 +1,39 @@
+
+
+ /*body{background-color: green;}*/
+ body{
+    
+    background: url(../images/fondo3.jpg) no-repeat center center fixed;
+    /*background-image: url("../Images/fondo.jpg");*/
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+ }
+
+
+}
+
+
+a:link, a:visited{text-decoration: none; }
+    a:hover{text-decoration: none; color:black;font-size: 110%;}
+    
+    a{
+      color:black;
+    }
+    
+
+   #tabla1 td:hover{ color:black;}
+  #trTablaSuperior:hover{color:black;}
+   #tdDiagnosticos:hover {
+      /*background:#c5c3c3;*/ 
+      font-weight: bold;
+      font-size: 105%;
+      /*color:white;*/
+    }
+
+    #tabla2 tr:hover{/*background:#c5c3c3;*/ color:white;}
+      
+    .myClass{background-color:red;}
+
+.highlight{background-color:yellow}

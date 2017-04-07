@@ -1,0 +1,31 @@
+body{
+	font-family: Cambria, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	background: #fff url(../images/doctor1.png) repeat top left;
+	font-weight: 400;
+	font-size: 15px;
+	color: #1d3c41;
+	overflow-y: scroll;
+}
+
+a{
+	color: #333;
+	text-decoration: none;
+}
+
+
+#container_demo{
+	 text-align: left;
+	 margin: 0;
+	 padding: 0;
+	 margin: 0 auto;
+	 font-family: 'Raleway', sans-serif;
+}
+
+#loginWrapper{
+	width: 60%;
+	right: 0px;
+	min-height: 560px;	
+	margin: 10em auto;	
+	width: 500px;
+	position: relative;	
+}
